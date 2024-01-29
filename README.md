@@ -13,6 +13,10 @@ python train.py  --gradient_clip_val 1.0 --max_epochs 50 --default_root_dir logs
 
 - 결과로 나온 epoch=49-val_loss=2.782.ckpt 파일을 추출했습니다.
 
+- 학습 모델 파일이 필요하신 분은 아래 링크로 사용하시기 바랍니다.
+
+- [모델 파일 다운로드](https://drive.google.com/file/d/1sQuRVacZG-uh1My65yLokDJRFvaI8Xwq/view?usp=sharing)
+
 
 ## Reference
 - [KoBART](https://github.com/SKT-AI/KoBART)
